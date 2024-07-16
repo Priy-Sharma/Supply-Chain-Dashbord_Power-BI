@@ -37,3 +37,38 @@ The Graphs and KPI's present in the <u> CSCO </u> section are:
   <li>On Time Delivery</li>
   <li>Cancel Orders</li>
 </ul>
+The Attached Screenshot of the CSCO Report is:
+</br>
+
+![Screenshot (1764)](https://github.com/user-attachments/assets/50f3561e-e485-4058-b27f-05eb9de19f49)
+ </br>
+
+ <h2>CEO</h2>
+<p>This section is dedicated to the Chief Executive Officer, focusing on the company's financials, market share, and the most profitable categories. It empowers the CEO to monitor real-time data, streamline operations, and drive strategic improvements.</p>
+<br>
+<p>The graphs and KPIs present in the <u>CEO</u> section are:</p>
+<br>
+1. <b>Graphs/Charts:</b>
+<br>
+<ul>
+  <li>Profit by Year</li>
+  <li>Order Cancellations by Order Country</li>
+  <li>Category Sales and Pricing Overview</li>
+  <li>Market Share Distribution by Order Country</li>
+</ul>
+<br>
+2. KPIs:
+<ul>
+  <li>Active Customers in 2016</li>
+  <li>Active Customers in 2017</li>
+  <li>Company's Profit</li>
+  <li>Company's Revenue</li>
+</ul>
+<p>The attached screenshot of the CEO report is:</p>
+</br>
+
+![Screenshot (1765)](https://github.com/user-attachments/assets/8ede63ee-6e9e-4a97-9bc1-3408a0920c80)
+
+ </br>
+
+ To download the data 
