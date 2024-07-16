@@ -71,4 +71,19 @@ The Attached Screenshot of the CSCO Report is:
 
  </br>
 
- To download the data 
+ <p>To get the complete Power BI Dashboard, click <a href="https://github.com/Priy-Sharma/Supply-Chain-Dashbord_Power-BI/blob/main/Dashboard.pbix">here</a>.</p>
+<br>
+<p>To get the complete Report on the Dashboard, click <a href="https://github.com/Priy-Sharma/Supply-Chain-Dashbord_Power-BI/blob/main/SUPPLY%20CHAIN%20DASHBOARD%20REPORT.docx">here</a>.</p>
+<br>
+<p>I recommend you to play with the slicers:</p>
+<br>
+<ul>
+  <li>Select Year</li>
+  <li>Select Month</li>
+  <li>Select Category</li>
+</ul>
+
+
+
+
+
